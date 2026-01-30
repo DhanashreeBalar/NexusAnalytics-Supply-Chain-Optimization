@@ -29,12 +29,15 @@ This project utilizes the **DataCo Smart Supply Chain Dataset**, a complex 180,0
 
 * **Week 1-3: Data Engineering**
 * SQL Schema Design, Normalization, and Operational Logic.
+  
 
 * **Week 4-6: Python Integration and EDA**
 * Automated ETL pipelines and Exploratory Data Analysis (EDA).
+  
 
 * **Week 7-9: Predictive Modeling**
 * RFM Customer Segmentation and Predictive Risk Modeling.
+  
 
 * **Week 10-12: Business Intelligence**
 * Dashboarding, Automation, and Executive Reporting.
