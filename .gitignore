@@ -206,10 +206,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Ignore the dataset files
+# Ignore the large dataset
 data/*.csv
 data/*.zip
+data/*.xlsx
+data/*.csv.xlsx
 
-# Ignore virtual environments
-venv/
-.env
+# Keep the folder structure but ignore content
+!data/.gitkeep
